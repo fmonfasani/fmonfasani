@@ -4,7 +4,5 @@
 💞️ I am looking to collaborate in the management of data for financial proposals
 - 📫 How to reach me fmonfasani for all networks, on tw, ig, gmail,yahoo, fb, reedit, always the same user.
 
-<!---
-fmonfasani/fmonfasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](bit.ly/fmonfasanidev_youtube)
+
