@@ -9,7 +9,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-fmonfasani-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/fmonfasani)
 [![Twitter](https://img.shields.io/badge/Twitter-@fmonfasani-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fmonfasani)
 </br>
-
 [![Instagram](https://img.shields.io/badge/Instagram-@fmonfasani-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/fmonfasani)
 [![TikTok](https://img.shields.io/badge/TikTok-@fmonfasanidev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mfmonfasanidev)
 [![Facebook](https://img.shields.io/badge/Facebook-@fmonfasani-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/fmonfasani)
