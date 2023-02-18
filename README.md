@@ -5,7 +5,8 @@
 - 📫 How to reach me fmonfasani for all networks, on tw, ig, gmail,yahoo, fb, reedit, always the same user.
 ## Encuéntrame en:
 
-[![YouTube][https://img.shields.io/youtube/views/UCISQbV_RrX5MfOauaBHw81Q?color=black&style=social]
+[![YouTube](https://img.shields.io/badge/YouTube-fmonfasani_Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@fmonfasanidev/channels)
+
 
 
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
