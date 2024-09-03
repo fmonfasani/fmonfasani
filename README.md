@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @fmonfasani , I am an engineer as a bachelor's degree and I am doing a master's degree in finance
-- 👀 I’m interested in everything related to increasing value, whether personal, professional or financial.
-- 🌱 I’m currently learning Data Management to ML applied to Finance.- 
-💞️ I am looking to collaborate in the management of data for financial proposals
-- 📫 How to reach me fmonfasani for all networks, on X, ig, gmail,yahoo, fb, reedit, always the same user.
-# Me llamo Federico Monfasani, Desarrollador y emprendedor.
+👋 Hello, I'm Federico Monfasani - [@fmonfasani](https://github.com/fmonfasani). I'm a developer with an engineering background and a Master's degree in Finance.
+
+👀 I'm deeply interested in anything that involves enhancing value—be it personal growth, professional development, or financial innovation.
+
+🌱 Currently, I am expanding my skills in Data Management with a focus on applying Machine Learning to finance.
+
+💞️ I'm keen to collaborate on projects that involve data management for financial applications, aiming to innovate and improve financial outcomes.
+
+📫 You can reach me at **fmonfasani** on various platforms including LinkedIn, Instagram, Gmail, Yahoo, Facebook, and Reddit.
+
+Let's connect and explore potential collaborations or just have a chat about technology and finance!
+
 
 ## Mis redes
 
