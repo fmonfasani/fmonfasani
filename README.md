@@ -10,8 +10,7 @@
 
 Let's connect and explore potential collaborations or just have a chat about technology and finance!
 
-
-## Mis redes
+ - My socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-fmonfasani_Dev-E62117?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@fmonfasanidev/channels)
 [![Twitch](https://img.shields.io/badge/Twitch-fmonfasani-6441A4?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/fmonfasani)
