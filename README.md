@@ -1,15 +1,16 @@
-👋 Hello, I'm Federico Monfasani - [@fmonfasani](https://github.com/fmonfasani). I'm a developer with an engineering background and a Master's degree in Finance.
+👋 Hello, I'm Federico Monfasani - @fmonfasani. I'm a software developer with a background in engineering and a Master's degree in Finance.
 
-👀 I'm deeply interested in anything that involves enhancing value—be it personal growth, professional development, or financial innovation.
+👀 My primary focus is on full stack development, creating efficient, scalable, and impactful applications. I am particularly interested in building systems that improve user experiences and streamline complex workflows.
 
-🌱 Currently, I am expanding my skills in Data Management with a focus on applying Machine Learning to finance.
+🌱 Currently, I'm deepening my expertise in backend technologies like NestJS and database management, while also exploring the integration of machine learning to enhance financial applications.
 
-💞️ I'm keen to collaborate on projects that involve data management for financial applications, aiming to innovate and improve financial outcomes.
+💼 In addition to development, I have a strong understanding of finance, particularly in areas like algorithmic trading, financial analytics, and valuation. I aim to combine my technical skills with financial knowledge to build innovative fintech solutions.
 
-📫 You can reach me at **fmonfasani** on various platforms including LinkedIn, Instagram, Gmail, Yahoo, Facebook, and Reddit.
+💞️ I'm looking to collaborate on development-heavy projects that may include a financial component, such as fintech platforms, data management systems, or custom APIs for financial services.
 
-Let's connect and explore potential collaborations or just have a chat about technology and finance!
+📫 You can reach me via fmonfasani on LinkedIn, GitHub, Gmail, and other platforms.
 
+Let's connect and discuss how we can leverage technology to build powerful applications, especially in the fintech space!
  - My socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-fmonfasani_Dev-E62117?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@fmonfasanidev/channels)
