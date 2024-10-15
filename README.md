@@ -11,6 +11,10 @@
 📫 You can reach me via fmonfasani on LinkedIn, GitHub, Gmail, and other platforms.
 
 Let's connect and discuss how we can leverage technology to build powerful applications, especially in the fintech space!
+
+Contact: fmonfasani@gmail.com
+
+
  - My socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-fmonfasani_Dev-E62117?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@fmonfasanidev/channels)
