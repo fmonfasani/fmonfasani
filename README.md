@@ -2,7 +2,7 @@
 
 👀 My primary focus is on full stack development, creating efficient, scalable, and impactful applications. I am particularly interested in building systems that improve user experiences and streamline complex workflows.
 
-🌱 Currently, I'm deepening my expertise in backend technologies like NestJS and database management, while also exploring the integration of machine learning to enhance financial applications.
+🌱 Currently, I'm deepening my expertise in backend technologies like NestJS and database management
 
 💼 In addition to development, I have a strong understanding of finance, particularly in areas like algorithmic trading, financial analytics, and valuation. I aim to combine my technical skills with financial knowledge to build innovative fintech solutions.
 
