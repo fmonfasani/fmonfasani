@@ -6,7 +6,7 @@
 
 💼 In addition to development, I have a strong understanding of finance, particularly in areas like algorithmic trading, financial analytics, and valuation. I aim to combine my technical skills with financial knowledge to build innovative fintech solutions.
 
-💞️ I'm looking to collaborate on development-heavy projects that may include a financial component, such as fintech platforms, data management systems, or custom APIs for financial services.
+💞️ I'm looking to collaborate on development-heavy projects that may include a financial component, such as payments systems, data management systems, or custom APIs for financial services.
 
 📫 You can reach me via fmonfasani on LinkedIn, GitHub, Gmail, and other platforms.
 
