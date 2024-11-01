@@ -1,6 +1,6 @@
 👋 Hello, I'm Federico Monfasani - @fmonfasani. I'm a software developer with a background in engineering and a Master's degree in Finance.
 
-👀 My primary focus is on full stack development, creating efficient, scalable, and impactful applications. I am particularly interested in building systems that improve user experiences and streamline complex workflows.
+👀 My primary focus is on full stack development, creating efficient, scalable, and impactful applications. 
 
 🌱 Currently, I'm deepening my expertise in backend technologies like NestJS, database management with MySQL , Postgres and mongoDB and implements payments systems.
 
