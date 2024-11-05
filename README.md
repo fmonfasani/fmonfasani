@@ -1,19 +1,16 @@
-👋 Hello, I'm Federico Monfasani - @fmonfasani. I'm a software developer with a background in engineering and a Master's degree in Finance.
+👋 Hello, I'm Federico Monfasani - @fmonfasani, a software developer specialized in backend development and payment systems.
 
-👀 My primary focus is on full stack development, creating efficient, scalable, and impactful applications. 
+👀 My primary focus is on backend architecture and building robust, scalable, and secure applications. I’m particularly interested in crafting solutions that are optimized for performance and scalability.
 
-🌱 Currently, I'm deepening my expertise in backend technologies like NestJS, database management with MySQL , Postgres and mongoDB and implements payments systems.
+🌱 Currently, I’m advancing my expertise in backend technologies, including NestJS, MySQL, PostgreSQL, and MongoDB, with a specific emphasis on implementing payment systems and enhancing database efficiency.
 
-💼 In addition to development, I have a strong understanding of finance, particularly in areas like algorithmic trading, financial analytics, and valuation. I aim to combine my technical skills with financial knowledge to build innovative fintech solutions.
+💼 With a solid foundation in engineering and a Master’s in Finance, I bring a unique blend of technical and financial acumen. My experience extends to areas like algorithmic trading, financial analytics, and valuation, allowing me to approach software projects with a deep understanding of financial requirements and constraints.
 
-💞️ I'm looking to collaborate on development-heavy projects that may include a financial component, such as payments systems, data management systems, or custom APIs for financial services.
+💞️ I’m looking to collaborate on projects centered around backend development, payment integration, and custom APIs, especially in fintech and other finance-related fields where secure and efficient data handling is essential.
 
-📫 You can reach me via fmonfasani on LinkedIn, GitHub, Gmail, and other platforms.
+📫 Reach me on LinkedIn, GitHub, or via email at fmonfasani@gmail.com. I’d love to connect and explore opportunities to build impactful software solutions that meet the demands of modern financial systems.
 
-Let's connect and discuss how we can leverage technology to build powerful applications, especially in the fintech space!
-
-Contact: fmonfasani@gmail.com
-
+Let’s build the future of backend technology, payments, and fintech together!
 
  - My socials
 
